@@ -292,7 +292,7 @@ SELECT * FROM words_N ORDER BY popularity * RAND() DESC LIMIT 1
 
 | GitHub | 职责 |
 |--------|------|
-| [@Painnb](https://github.com/Painnb) | 产品经理、需求分析师、项目经理 |
+| [@Painnb](https://github.com/Painnb) | 产品经理、知识图谱与热度算法设计、项目经理 |
 | [@cloudyun233](https://github.com/cloudyun233) | 后端开发工程师、运维工程师 |
 | [@bufan1213](https://github.com/bufan1213) | UI设计师、前端开发工程师 |
 
