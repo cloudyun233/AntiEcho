@@ -2,7 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-1.8-orange.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.6-green.svg)](https://spring.io/projects/spring-boot)
-[![uni-app](https://img.shields.io/badge/uni-app-Vue2-blue.svg)](https://uniapp.dcloud.io/)
+[![uni-app](https://img.shields.io/badge/uni-app-Vue2-blue.svg)](https://uniapp.dcloud.net.cn/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
